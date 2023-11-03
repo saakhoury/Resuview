@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Résuview</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,
+    500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,
+    800italic,900italic" rel="stylesheet" /> 
+    
+    <!-- linking style file to this file   -->
+    <link href="style.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+</head>
+
+<style>
+    body {
+        background-image: url("images/resuview_background.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed; 
+        background-size: 100% 100%;
+    }
+    </style>
+
+<body>
+    <div class = "title">
+        <span class="gradient-text">Résuview: Visualize your résume</span>
+    </div>
+
+
+    <!-- dropbox -->
+    <div class="dropBox">
+        <form action="/action_page.php" 
+            enctype="multipart/form-data"> 
+
+            <label for="myfile"><h1>Upload Your Resume Here</h1></label> 
+            <input type="file" id="myfile" name="myfile" /> 
+            <br /><br/> 
+            <input type="submit" /> 
+        </form> 
+    </div>
+
+    <!-- lines -->
+    <!-- <div class= "line1">
+        <img src="images/left-line.png" alt="Decorative Lline"
+            width="750px"
+            height="12px"
+    >
+    </div>  
+
+    <div class="line2">
+        <img src="images/right-line.png" alt="Decorative Rline"
+            width="900px"
+            height="15px"
+        >
+    </div>   -->
+    
+</body>
+</html>
