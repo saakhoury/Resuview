@@ -38,5 +38,5 @@ Résuview is an innovative augmented reality (AR) application, designed to enhan
 **7. AR Glasses:** Allows users to view resumes next to corresponding individuals, with hand tracking to resize/move the resume. 
 
 <p align="center">
-<img width="50%" alt="Screenshot 2024-01-21 at 9 07 52 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/64b1288f-ab2b-4108-9b5a-12f1f3ca9f7a">
+<img width="75%" alt="Screenshot 2024-01-21 at 9 07 52 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/64b1288f-ab2b-4108-9b5a-12f1f3ca9f7a">
 </p>
