@@ -10,6 +10,7 @@ Résuview is an innovative augmented reality (AR) application, designed to enhan
 Resuview - SE101 | MySQL, Unity, Bootstrap, C#, ZXing Library, Figma </h5>
 
 <h5>
+  
 • Pioneered an AR headset to showcase job seeker resumes & supporting documents, utilizing Fusion 360
 
 • Engineered a Java, HTML, and CSS website with PHP and mySQL via Table Plus
@@ -17,6 +18,7 @@ Resuview - SE101 | MySQL, Unity, Bootstrap, C#, ZXing Library, Figma </h5>
 • Integrated QR code scanning in Unity using a C# script with ZXing library for camera initialization & UI rendering
 
 • Collaborated to integrate 2D calibration with AprilTag & incorporated hand tracking via Esky and Mediapipe
+
 </h5>
 
 ## Hardware
