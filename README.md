@@ -6,6 +6,18 @@ Résuview is an innovative augmented reality (AR) application, designed to enhan
 <img width="75%" alt="Screenshot 2024-01-21 at 9 03 17 PM" src="https://github.com/pearl-natalia/resuview/assets/145855287/b595bbf9-3af1-436f-8ccc-10027308fa25">
 </p>
 
+<h5> 
+Resuview - SE101 | MySQL, Unity, Bootstrap, C#, ZXing Library, Figma
+
+• Pioneered an AR headset to showcase job seeker resumes & supporting documents, utilizing Fusion 360
+
+• Engineered a Java, HTML, and CSS website with PHP and mySQL via Table Plus
+
+• Integrated QR code scanning in Unity using a C# script with ZXing library for camera initialization & UI rendering
+
+• Collaborated to integrate 2D calibration with AprilTag & incorporated hand tracking via Esky and Mediapipe
+</h5>
+
 ## Hardware
 
 **1. Base:** Holds screens and lenses in place. Also Provides stability and support for the AR display components.
